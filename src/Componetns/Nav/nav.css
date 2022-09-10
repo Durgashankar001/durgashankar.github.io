@@ -7,7 +7,7 @@ nav{
     position: fixed;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 0.1rem;
+    bottom: 0.3rem;
     display: flex;
     gap: 0.8rem;
     border-radius: 3rem;
@@ -16,7 +16,7 @@ nav{
 }
 nav a{
     background: transparent;
-    padding: 0.7rem 0.9rem;
+    padding:0.9rem;
     border-radius: 50%;
     display: flex;
     color: var(--color-light);
@@ -26,6 +26,6 @@ nav a:hover{
     background: rgba(0,0,0,0.3);
 }
 nav a.active{
-    background: var(--color-bg);
-    color: var(--color-white);
+    background: var(--color-primary);
+    color: var(--color-bg);
 }
