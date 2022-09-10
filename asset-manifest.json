@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/durgashankar.github.io/static/css/main.e5b87a5b.css",
+    "main.js": "/durgashankar.github.io/static/js/main.453617ff.js",
+    "static/media/cv.pdf": "/durgashankar.github.io/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me_img.png": "/durgashankar.github.io/static/media/me_img.658df818ea32cd922293.png",
+    "index.html": "/durgashankar.github.io/index.html",
+    "main.e5b87a5b.css.map": "/durgashankar.github.io/static/css/main.e5b87a5b.css.map",
+    "main.453617ff.js.map": "/durgashankar.github.io/static/js/main.453617ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b87a5b.css",
+    "static/js/main.453617ff.js"
+  ]
+}
